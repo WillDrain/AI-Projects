@@ -1,0 +1,1 @@
+print("Hello AI World! This is my first AI project comit.")
