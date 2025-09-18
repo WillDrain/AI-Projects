@@ -19,3 +19,10 @@ This repo contains my month 1-6 projects for learning AI engineering
 - Learned about **vector norms** and **normalization**
   - ||[3,4]|| = 5
   - Normalized [3,4] = [0.6, 0.8]
+## Day 4
+- Started **EDA (Exploratory Data Analysis)** on Iris dataset
+  - Checked unique species and counts
+  - Calculated group averages
+  - Plotted boxplot and pairplot for features by species
+- Math: Learned **orthogonality**
+  - Dot product = 0 → vectors are perpendicular
