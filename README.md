@@ -26,3 +26,10 @@ This repo contains my month 1-6 projects for learning AI engineering
   - Plotted boxplot and pairplot for features by species
 - Math: Learned **orthogonality**
   - Dot product = 0 → vectors are perpendicular
+ ## Day 5
+- Preprocessed **Iris dataset**:
+  - Encoded species labels into numeric values
+  - Split data into training/testing sets (80/20)
+- Math:
+  - Practiced vectors in 3D
+  - Computed **Euclidean distance** between vectors
